@@ -1,0 +1,24 @@
+name: Actualizar datos
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 22 * * 1-5"
+permissions:
+  contents: write
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install yfinance pandas
+      - run: python descargar_datos.py
+      - name: Commit
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add datos
+          git commit -m "datos $(date -u +%F)" || echo "sin cambios"
+          git push
