@@ -44,3 +44,9 @@ for campo in ["Close","High","Volume"]:
     for anio, g in tabla.groupby(tabla.index.year):
         g.to_parquet(f"datos/{campo.lower()}_{anio}.parquet", compression="zstd")
 print("Universo OK:", full["Close"].index[-1].date(), full["Close"].shape)
+
+# ---- 5) Series largas para análisis de ciclos (oro, BTC, S&P) desde 2000
+LARGO = ["GC=F", "GLD", "BTC-USD", "^GSPC", "SPY", "^VIX", "^TNX", "DX-Y.NYB", "TLT", "SLV"]
+dl = yf.download(LARGO, start="2000-01-01", auto_adjust=True, progress=False)
+dl["Close"].to_csv("datos/largo_close.csv")
+print("Largo plazo OK:", dl["Close"].index[-1].date())
