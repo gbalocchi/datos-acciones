@@ -34,7 +34,7 @@ ACVA,ACV Auctions Inc.,Information Technology,Software,Small Cap
 AD,Array Digital Infrastructure Inc.,Communication Services,Fixed & Integrated Telecom,Mid Cap
 ADBE,Adobe Inc.,Information Technology,Software,Large Cap
 ADEA,Adeia Inc.,Information Technology,Software,Mid Cap
-ADI,"Analog Devices, Inc.",Information Technology,Semiconductors & Chip Equipment,Mega Cap
+ADI,"Analog Devices, Inc.",Information Technology,Semiconductors & Chip Equipment,Large Cap
 ADIG,ADI Global Distribution Inc.,Industrials,Industrial Distribution & Rental,Small Cap
 ADM,Archer-Daniels-Midland Company,Consumer Staples,Food Products,Large Cap
 ADMA,"ADMA Biologics, Inc.",Health Care,Biotechnology,Mid Cap
@@ -85,7 +85,7 @@ ALOY,REalloys Inc.,Materials,Mining & Metals,Small Cap
 ALRM,"Alarm.com Holdings, Inc.",Information Technology,Software,Mid Cap
 ALSN,"Allison Transmission Holdings, Inc.",Consumer Discretionary,Auto Parts,Mid Cap
 ALT,"Altimmune, Inc.",Health Care,Biotechnology,Small Cap
-AM,Antero Midstream Corporation,Energy,"Oil, Gas & Fuels",Large Cap
+AM,Antero Midstream Corporation,Energy,"Oil, Gas & Fuels",Mid Cap
 AMAT,"Applied Materials, Inc.",Information Technology,Semiconductors & Chip Equipment,Mega Cap
 AMBA,"Ambarella, Inc.",Information Technology,Semiconductors & Chip Equipment,Mid Cap
 AMBQ,Ambiq Micro Inc.,Information Technology,Semiconductors & Chip Equipment,Small Cap
@@ -145,7 +145,6 @@ ARMK,Aramark,Consumer Discretionary,Hospitality & Leisure,Large Cap
 AROC,"Archrock, Inc.",Energy,Oilfield Services & Equipment,Mid Cap
 ARQT,"Arcutis Biotherapeutics, Inc.",Health Care,Biotechnology,Mid Cap
 ARRY,"Array Technologies, Inc.",Industrials,Electrical Equipment,Small Cap
-ARTV,Artiva Biotherapeutics Inc.,Health Care,Biotechnology,Small Cap
 ARVN,"Arvinas, Inc.",Health Care,Biotechnology,Small Cap
 ARW,"Arrow Electronics, Inc.",Information Technology,Electronic Components & Instruments,Large Cap
 ARWR,"Arrowhead Pharmaceuticals, Inc.",Health Care,Biotechnology,Mid Cap
@@ -161,7 +160,7 @@ ASTE,"Astec Industries, Inc.",Industrials,Machinery,Small Cap
 ASTH,Astrana Health Inc.,Health Care,Health Care Providers,Small Cap
 ASTS,"AST SpaceMobile, Inc.",Communication Services,Fixed & Integrated Telecom,Large Cap
 ATEC,"Alphatec Holdings, Inc.",Health Care,Medical Devices & Supplies,Small Cap
-ATEN,"A10 Networks, Inc.",Information Technology,Software,Mid Cap
+ATEN,"A10 Networks, Inc.",Information Technology,Software,Small Cap
 ATEX,Anterix Inc.,Communication Services,Fixed & Integrated Telecom,Small Cap
 ATI,ATI Inc.,Materials,Mining & Metals,Large Cap
 ATKR,Atkore Inc.,Industrials,Electrical Equipment,Mid Cap
@@ -260,7 +259,6 @@ BMI,"Badger Meter, Inc.",Information Technology,Electronic Components & Instrume
 BMRN,BioMarin Pharmaceutical Inc.,Health Care,Biotechnology,Large Cap
 BMY,Bristol-Myers Squibb Company,Health Care,Pharmaceuticals,Large Cap
 BNED,"Barnes & Noble Education, Inc.",Consumer Discretionary,Specialty Retail,Small Cap
-BNTC,Benitec Biopharma Inc.,Health Care,Biotechnology,Small Cap
 BOBS,Bob's Discount Furniture Inc.,Consumer Discretionary,Specialty Retail,Small Cap
 BOC,Boston Omaha Corporation,Communication Services,Media,Small Cap
 BOOT,"Boot Barn Holdings, Inc.",Consumer Discretionary,Specialty Retail,Mid Cap
@@ -347,7 +345,7 @@ CERT,"Certara, Inc.",Health Care,Biotechnology,Small Cap
 CEVA,"CEVA, Inc.",Information Technology,Semiconductors & Chip Equipment,Small Cap
 CF,"CF Industries Holdings, Inc.",Materials,Chemicals,Large Cap
 CGEM,"Cullinan Therapeutics, Inc.",Health Care,Biotechnology,Small Cap
-CGNX,Cognex Corporation,Information Technology,Electronic Components & Instruments,Large Cap
+CGNX,Cognex Corporation,Information Technology,Electronic Components & Instruments,Mid Cap
 CGON,CG Oncology Inc.,Health Care,Biotechnology,Mid Cap
 CHD,"Church & Dwight Co., Inc.",Consumer Staples,Household Products,Large Cap
 CHDN,"Churchill Downs, Incorporated",Consumer Discretionary,Hospitality & Leisure,Mid Cap
@@ -426,7 +424,7 @@ CRGY,Crescent Energy Company,Energy,"Oil, Gas & Fuels",Mid Cap
 CRI,"Carter's, Inc.",Consumer Discretionary,Apparel & Luxury Goods,Small Cap
 CRK,"Comstock Resources, Inc.",Energy,"Oil, Gas & Fuels",Mid Cap
 CRL,"Charles River Laboratories International, Inc.",Health Care,Life Science Tools,Large Cap
-CRM,"Salesforce, Inc.",Information Technology,Software,Large Cap
+CRM,"Salesforce, Inc.",Information Technology,Software,Mega Cap
 CRMD,CorMedix Inc.,Health Care,Biotechnology,Small Cap
 CRNC,Cerence Inc.,Information Technology,Software,Small Cap
 CROX,"Crocs, Inc.",Consumer Discretionary,Apparel & Luxury Goods,Mid Cap
@@ -447,9 +445,8 @@ CTAS,Cintas Corporation,Industrials,Commercial Services,Large Cap
 CTEV,Claritev Corporation,Industrials,Professional Services,Small Cap
 CTKB,Cytek Biosciences Inc.,Health Care,Life Science Tools,Small Cap
 CTMX,"CytomX Therapeutics, Inc.",Health Care,Biotechnology,Small Cap
-CTNM,Contineum Therapeutics Inc.,Health Care,Biotechnology,Small Cap
 CTOS,"Custom Truck One Source, Inc.",Industrials,Commercial Services,Mid Cap
-CTRI,Centuri Holdings Inc.,Industrials,Construction & Engineering,Mid Cap
+CTRI,Centuri Holdings Inc.,Industrials,Construction & Engineering,Small Cap
 CTRN,"Citi Trends, Inc.",Consumer Discretionary,Specialty Retail,Small Cap
 CTS,CTS Corporation,Information Technology,Electronic Components & Instruments,Small Cap
 CTSH,Cognizant Technology Solutions Corporation Class A,Information Technology,IT Services,Large Cap
@@ -482,6 +479,7 @@ DAN,Dana Incorporated,Consumer Discretionary,Auto Parts,Mid Cap
 DAR,Darling Ingredients Inc.,Consumer Staples,Food Products,Mid Cap
 DASH,"DoorDash, Inc.",Communication Services,Internet Media & Services,Large Cap
 DBD,"Diebold Nixdorf, Incorporated",Information Technology,Software,Mid Cap
+DBI,Designer Brands Inc. Class A,Consumer Discretionary,Apparel & Luxury Goods,Small Cap
 DBX,"Dropbox, Inc.",Information Technology,Software,Mid Cap
 DC,Dakota Gold Corp.,Materials,Mining & Metals,Small Cap
 DCH,Dauch Corporation,Consumer Discretionary,Auto Parts,Small Cap
@@ -599,7 +597,7 @@ EROK,EagleRock Land LLC Class A shares representing limited liability company in
 ESAB,ESAB Corporation,Industrials,Machinery,Mid Cap
 ESE,ESCO Technologies Inc.,Information Technology,Electronic Components & Instruments,Mid Cap
 ESI,Element Solutions Inc,Materials,Chemicals,Mid Cap
-ESTC,Elastic N.V.,Information Technology,Software,Mid Cap
+ESTC,Elastic N.V.,Information Technology,Software,Large Cap
 ET,Energy Transfer LP,Energy,"Oil, Gas & Fuels",Large Cap
 ETD,Ethan Allen Interiors Inc.,Consumer Discretionary,Household Durables,Small Cap
 ETON,"Eton Pharmaceuticals, Inc.",Health Care,Biotechnology,Small Cap
@@ -631,6 +629,7 @@ FAST,Fastenal Company,Industrials,Industrial Distribution & Rental,Large Cap
 FBIN,Fortune Brands Innovations Inc.,Industrials,Building Products,Mid Cap
 FBIOP,"Fortress Biotech, Inc.",Health Care,Biotechnology,Small Cap
 FBYD,Falcon's Beyond Global Inc.,Industrials,Conglomerates,Small Cap
+FBYDP,Falcon's Beyond Global Inc. 8% Series A Preferred Stock,Communication Services,Entertainment,Small Cap
 FCEL,"FuelCell Energy, Inc.",Industrials,Electrical Equipment,Small Cap
 FCN,"FTI Consulting, Inc.",Industrials,Professional Services,Mid Cap
 FCX,"Freeport-McMoRan, Inc.",Materials,Mining & Metals,Large Cap
@@ -645,6 +644,7 @@ FFIV,"F5, Inc.",Information Technology,Software,Large Cap
 FICO,Fair Isaac Corporation,Information Technology,Software,Large Cap
 FIG,Figma Inc.,Information Technology,Software,Large Cap
 FIGS,FIGS Inc.,Health Care,Medical Devices & Supplies,Mid Cap
+FIP,FTAI Infrastructure Inc.,Industrials,Transport Infrastructure,Small Cap
 FIVE,"Five Below, Inc.",Consumer Discretionary,Specialty Retail,Large Cap
 FIVN,"Five9, Inc.",Information Technology,Software,Mid Cap
 FIX,"Comfort Systems USA, Inc.",Industrials,Construction & Engineering,Large Cap
@@ -661,14 +661,13 @@ FLYW,Flywire Corporation,Information Technology,IT Services,Mid Cap
 FMC,FMC Corporation,Materials,Chemicals,Small Cap
 FND,"Floor & Decor Holdings, Inc.",Consumer Discretionary,Specialty Retail,Mid Cap
 FNKO,"Funko, Inc.",Consumer Discretionary,Leisure Products,Small Cap
-FORM,"FormFactor, Inc.",Information Technology,Semiconductors & Chip Equipment,Large Cap
+FORM,"FormFactor, Inc.",Information Technology,Semiconductors & Chip Equipment,Mid Cap
 FOSL,"Fossil Group, Inc.",Consumer Discretionary,Apparel & Luxury Goods,Small Cap
 FOUR,"Shift4 Payments, Inc.",Information Technology,Software,Mid Cap
 FOX,Fox Corporation,Communication Services,Media,Large Cap
 FOXA,Fox Corporation Class A,Communication Services,Entertainment,Large Cap
 FOXF,Fox Factory Holding Corp.,Consumer Discretionary,Auto Parts,Small Cap
-FPS,Forgent Power Solutions Inc.,Industrials,Electrical Equipment,Large Cap
-FRD,"Friedman Industries, Incorporated",Materials,Mining & Metals,Small Cap
+FPS,Forgent Power Solutions Inc.,Industrials,Electrical Equipment,Mid Cap
 FRNM,Freenome Inc.,Health Care,Biotechnology,Small Cap
 FROG,JFrog Ltd.,Information Technology,Software,Large Cap
 FRPT,Freshpet Inc,Consumer Staples,Food Products,Mid Cap
@@ -683,7 +682,7 @@ FTDR,"frontdoor, inc.",Consumer Discretionary,Consumer Services,Mid Cap
 FTH,Faeth Therapeutics Inc.,Health Care,Biotechnology,Small Cap
 FTK,"Flotek Industries, Inc.",Energy,Oilfield Services & Equipment,Small Cap
 FTNT,"Fortinet, Inc.",Information Technology,Software,Large Cap
-FTRE,Fortrea Holdings Inc.,Health Care,Biotechnology,Small Cap
+FTRE,Fortrea Holdings Inc.,Health Care,Biotechnology,Mid Cap
 FTV,Fortive Corporation,Information Technology,Electronic Components & Instruments,Large Cap
 FTW,Presidio Production Company,Energy,"Oil, Gas & Fuels",Small Cap
 FUBO,fuboTV Inc.,Communication Services,Media,Small Cap
@@ -713,7 +712,6 @@ GENB,Generate Biomedicines Inc.,Health Care,Biotechnology,Small Cap
 GEO,"The GEO Group, Inc.",Industrials,Commercial Services,Mid Cap
 GERN,Geron Corporation,Health Care,Biotechnology,Small Cap
 GEV,GE Vernova Inc.,Industrials,Electrical Equipment,Mega Cap
-GEVO,"Gevo, Inc.",Energy,"Oil, Gas & Fuels",Small Cap
 GFF,Griffon Corporation,Industrials,Building Products,Mid Cap
 GFS,GlobalFoundries Inc.,Information Technology,Semiconductors & Chip Equipment,Large Cap
 GGG,Graco Inc.,Industrials,Machinery,Large Cap
@@ -728,7 +726,6 @@ GKOS,Glaukos Corp,Health Care,Medical Devices & Supplies,Mid Cap
 GLAS,Glass House Brands Inc. Subordinate Voting Shares,Health Care,Pharmaceuticals,Small Cap
 GLIBA,Liberty Capital Corporation,Communication Services,Fixed & Integrated Telecom,Small Cap
 GLIBK,Liberty Capital Corporation,Communication Services,Fixed & Integrated Telecom,Small Cap
-GLOO,Gloo Holdings Inc.,Information Technology,Software,Small Cap
 GLP,Global Partners LP,Energy,"Oil, Gas & Fuels",Small Cap
 GLUE,Monte Rosa Therapeutics Inc.,Health Care,Biotechnology,Small Cap
 GLW,Corning Inc,Information Technology,Electronic Components & Instruments,Large Cap
@@ -740,6 +737,7 @@ GNK,Genco Shipping & Trading Limited,Industrials,Shipping,Small Cap
 GNRC,Generac Holdings Inc.,Industrials,Electrical Equipment,Large Cap
 GNTX,Gentex Corporation,Consumer Discretionary,Auto Parts,Mid Cap
 GO,Grocery Outlet Holding Corp.,Consumer Staples,Grocery & Drug Retail,Small Cap
+GOGO,Gogo Inc.,Communication Services,Fixed & Integrated Telecom,Small Cap
 GOLF,Acushnet Holdings Corp.,Consumer Discretionary,Leisure Products,Mid Cap
 GOOG,Alphabet Inc.,Communication Services,Internet Media & Services,Mega Cap
 GOOGL,Alphabet Inc.,Communication Services,Internet Media & Services,Mega Cap
@@ -835,6 +833,7 @@ HYLN,Hyliion Holdings Corp.,Consumer Discretionary,Auto Parts,Small Cap
 HYMC,Hycroft Mining Holding Corporation,Materials,Mining & Metals,Small Cap
 HZO,"MarineMax, Inc.",Consumer Discretionary,Specialty Retail,Small Cap
 IA,Innovative Solutions and Support Inc.,Industrials,Aerospace & Defense,Small Cap
+IAM,Iambic Therapeutics Inc.,Health Care,Biotechnology,Small Cap
 IART,Integra LifeSciences Holdings Corporation,Health Care,Medical Devices & Supplies,Small Cap
 IAUX,i-80 Gold Corp.,Materials,Mining & Metals,Small Cap
 IBEX,IBEX Limited,Information Technology,Software,Small Cap
@@ -870,15 +869,15 @@ INFQ,Infleqtion Inc.,Information Technology,Software,Mid Cap
 INGM,Ingram Micro Holding Corporation,Information Technology,Software,Mid Cap
 INGR,Ingredion Incorporated,Consumer Staples,Food Products,Mid Cap
 INNV,InnovAge Holding Corp.,Health Care,Health Care Providers,Small Cap
-INOD,Innodata Inc.,Information Technology,IT Services,Mid Cap
+INOD,Innodata Inc.,Information Technology,IT Services,Small Cap
 INSM,Insmed Incorporated,Health Care,Biotechnology,Large Cap
-INSP,"Inspire Medical Systems, Inc.",Health Care,Medical Devices & Supplies,Small Cap
+INSP,"Inspire Medical Systems, Inc.",Health Care,Medical Devices & Supplies,Mid Cap
 INSW,"International Seaways, Inc.",Industrials,Shipping,Mid Cap
 INTA,Intapp Inc.,Information Technology,Software,Mid Cap
 INTC,Intel Corporation,Information Technology,Semiconductors & Chip Equipment,Mega Cap
 INTU,Intuit Inc.,Information Technology,Software,Large Cap
 INVA,"Innoviva, Inc.",Health Care,Biotechnology,Small Cap
-INVX,Innovex International Inc.,Energy,Oilfield Services & Equipment,Mid Cap
+INVX,Innovex International Inc.,Energy,Oilfield Services & Equipment,Small Cap
 IOND,Ionic Digital Inc.,Information Technology,Software,Mid Cap
 IONQ,IonQ Inc.,Information Technology,Computers & Hardware,Large Cap
 IONS,"Ionis Pharmaceuticals, Inc.",Health Care,Biotechnology,Mid Cap
@@ -979,11 +978,13 @@ KYTX,Kyverna Therapeutics Inc.,Health Care,Biotechnology,Small Cap
 LAD,"Lithia Motors, Inc.",Consumer Discretionary,Specialty Retail,Mid Cap
 LASR,"nLIGHT, Inc.",Information Technology,Semiconductors & Chip Equipment,Mid Cap
 LAUR,"Laureate Education, Inc.",Consumer Discretionary,Consumer Services,Mid Cap
+LAW,CS Disco Inc.,Information Technology,Software,Small Cap
 LBRT,Liberty Oilfield Services Inc.,Energy,Oilfield Services & Equipment,Mid Cap
 LBRX,LB Pharmaceuticals Inc,Health Care,Biotechnology,Small Cap
 LCID,Lucid Group Inc.,Consumer Discretionary,Automobiles,Small Cap
-LCII,LCI Industries,Consumer Discretionary,Automobiles,Small Cap
+LCII,LCI Industries,Consumer Discretionary,Automobiles,Mid Cap
 LDOS,"Leidos Holdings, Inc.",Information Technology,IT Services,Large Cap
+LE,"Lands' End, Inc.",Consumer Discretionary,Specialty Retail,Small Cap
 LEA,Lear Corporation,Consumer Discretionary,Auto Parts,Mid Cap
 LECO,"Lincoln Electric Holdings, Inc.",Industrials,Machinery,Large Cap
 LEGH,Legacy Housing Corporation,Consumer Discretionary,Household Durables,Small Cap
@@ -994,7 +995,7 @@ LEVI,Levi Strauss & Co. Class A,Consumer Discretionary,Apparel & Luxury Goods,Mi
 LFMDP,LifeMD Inc. 8.875% Series A Cumulative Perpetual Preferred Stock,Industrials,Professional Services,Small Cap
 LFST,LifeStance Health Group Inc.,Health Care,Health Care Providers,Mid Cap
 LFTO,Liftoff Mobile Inc.,Information Technology,Software,Mid Cap
-LFUS,"Littelfuse, Inc.",Information Technology,Electronic Components & Instruments,Large Cap
+LFUS,"Littelfuse, Inc.",Information Technology,Electronic Components & Instruments,Mid Cap
 LGIH,"LGI Homes, Inc.",Consumer Discretionary,Household Durables,Small Cap
 LGN,Legence Corp.,Industrials,Construction & Engineering,Mid Cap
 LGND,Ligand Pharmaceuticals Incorporated,Health Care,Biotechnology,Mid Cap
@@ -1108,7 +1109,6 @@ MIRM,"Mirum Pharmaceuticals, Inc.",Health Care,Biotechnology,Mid Cap
 MITK,"Mitek Systems, Inc.",Information Technology,Software,Small Cap
 MKC,"McCormick & Company, Incorporated",Consumer Staples,Food Products,Large Cap
 MKSI,"MKS Instruments, Inc.",Information Technology,Electronic Components & Instruments,Large Cap
-MKTW,MarketWise Inc.,Information Technology,Software,Small Cap
 MLAB,"Mesa Laboratories, Inc.",Information Technology,Electronic Components & Instruments,Small Cap
 MLI,"Mueller Industries, Inc.",Industrials,Machinery,Large Cap
 MLKN,MillerKnoll Inc.,Consumer Discretionary,Household Durables,Small Cap
@@ -1152,7 +1152,7 @@ MSGS,Madison Square Garden Sports Corp.,Communication Services,Entertainment,Mid
 MSI,"Motorola Solutions, Inc.",Information Technology,Networking & Communications Equipment,Large Cap
 MSM,"MSC Industrial Direct Co., Inc.",Industrials,Industrial Distribution & Rental,Mid Cap
 MSTR,Strategy Inc,Information Technology,Software,Large Cap
-MTCH,"Match Group, Inc.",Communication Services,Internet Media & Services,Mid Cap
+MTCH,"Match Group, Inc.",Communication Services,Internet Media & Services,Large Cap
 MTD,"Mettler-Toledo International, Inc.",Health Care,Life Science Tools,Large Cap
 MTDR,Matador Resources Company,Energy,"Oil, Gas & Fuels",Mid Cap
 MTH,Meritage Homes Corporation,Consumer Discretionary,Household Durables,Mid Cap
@@ -1165,7 +1165,7 @@ MTX,Minerals Technologies Inc.,Materials,Chemicals,Small Cap
 MTZ,"MasTec, Inc.",Industrials,Construction & Engineering,Large Cap
 MU,"Micron Technology, Inc.",Information Technology,Semiconductors & Chip Equipment,Mega Cap
 MUR,Murphy Oil Corporation,Energy,"Oil, Gas & Fuels",Mid Cap
-MUSA,Murphy USA Inc.,Consumer Discretionary,Specialty Retail,Mid Cap
+MUSA,Murphy USA Inc.,Consumer Discretionary,Specialty Retail,Large Cap
 MWA,"Mueller Water Products, Inc. Class A",Industrials,Machinery,Mid Cap
 MWH,SOLV Energy Inc.,Industrials,Construction & Engineering,Mid Cap
 MXL,"MaxLinear, Inc.",Information Technology,Semiconductors & Chip Equipment,Mid Cap
@@ -1185,7 +1185,7 @@ NDSN,Nordson Corporation,Industrials,Machinery,Large Cap
 NEM,Newmont Corporation,Materials,Mining & Metals,Large Cap
 NEO,"NeoGenomics, Inc.",Health Care,Biotechnology,Mid Cap
 NEOG,Neogen Corporation,Health Care,Life Science Tools,Mid Cap
-NESR,National Energy Services Reunit,Energy,Oilfield Services & Equipment,Mid Cap
+NESR,National Energy Services Reunit,Energy,Oilfield Services & Equipment,Small Cap
 NET,"Cloudflare, Inc.",Information Technology,Software,Large Cap
 NEU,NewMarket Corporation,Materials,Chemicals,Mid Cap
 NEXT,NextDecade Corporation,Energy,"Oil, Gas & Fuels",Small Cap
@@ -1253,7 +1253,6 @@ OABI,OmniAb Inc.,Health Care,Biotechnology,Small Cap
 OBIO,Orchestra BioMed Holdings Inc.,Health Care,Biotechnology,Small Cap
 OBX,Obsidian Therapeutics Inc.,Health Care,Biotechnology,Small Cap
 OC,Owens Corning,Industrials,Building Products,Mid Cap
-OCGN,"Ocugen, Inc.",Health Care,Biotechnology,Small Cap
 OCTV,Octave Intelligence plc,Information Technology,Software,Mid Cap
 OCUL,"Ocular Therapeutix, Inc.",Health Care,Biotechnology,Small Cap
 ODC,Oil-Dri Corporation of America,Consumer Staples,Household Products,Small Cap
@@ -1304,7 +1303,6 @@ OXY,Occidental Petroleum Corporatio,Energy,"Oil, Gas & Fuels",Large Cap
 P,Everpure Inc.,Information Technology,Computers & Hardware,Large Cap
 PAA,"Plains All American Pipeline, L.P.",Energy,"Oil, Gas & Fuels",Large Cap
 PACB,"Pacific Biosciences of California, Inc.",Health Care,Biotechnology,Small Cap
-PACK,Ranpak Holdings Corp.,Materials,Packaging,Small Cap
 PACS,PACS Group Inc.,Health Care,Health Care Providers,Mid Cap
 PAG,"Penske Automotive Group, Inc.",Consumer Discretionary,Specialty Retail,Large Cap
 PAGP,"Plains GP Holdings, L.P.",Energy,"Oil, Gas & Fuels",Mid Cap
@@ -1334,7 +1332,7 @@ PCTTU,"PureCycle Technologies, Inc.",Materials,Chemicals,Small Cap
 PCTY,Paylocity Holding Corporation,Information Technology,Software,Mid Cap
 PCVX,"Vaxcyte, Inc.",Health Care,Biotechnology,Large Cap
 PD,"PagerDuty, Inc.",Information Technology,Software,Small Cap
-PDFS,"PDF Solutions, Inc.",Information Technology,Software,Mid Cap
+PDFS,"PDF Solutions, Inc.",Information Technology,Software,Small Cap
 PEGA,Pegasystems Inc.,Information Technology,Software,Mid Cap
 PEN,"Penumbra, Inc.",Health Care,Medical Devices & Supplies,Large Cap
 PENG,Penguin Solutions Inc.,Information Technology,Semiconductors & Chip Equipment,Mid Cap
@@ -1423,7 +1421,6 @@ QMCO,Quantum Corporation,Information Technology,Computers & Hardware,Small Cap
 QNST,"QuinStreet, Inc.",Communication Services,Media,Small Cap
 QNT,Quantinuum Inc.,Information Technology,Software,Mid Cap
 QS,QuantumScape Corporation,Consumer Discretionary,Auto Parts,Mid Cap
-QSI,Quantum-Si Incorporated,Health Care,Biotechnology,Small Cap
 QTWO,"Q2 Holdings, Inc.",Information Technology,Software,Mid Cap
 QUAD,"Quad/Graphics, Inc.",Industrials,Professional Services,Small Cap
 QVCG,QVC Group Inc.,Consumer Discretionary,General & Online Retail,Small Cap
@@ -1449,7 +1446,6 @@ REAL,"The RealReal, Inc.",Consumer Discretionary,Specialty Retail,Small Cap
 REF,Reformation Inc.,Consumer Discretionary,Apparel & Luxury Goods,Small Cap
 REGN,"Regeneron Pharmaceuticals, Inc.",Health Care,Biotechnology,Large Cap
 REI,"Ring Energy, Inc.",Energy,"Oil, Gas & Fuels",Small Cap
-RELL,"Richardson Electronics, Ltd.",Information Technology,Electronic Components & Instruments,Small Cap
 RELY,Remitly Global Inc.,Information Technology,Software,Mid Cap
 REPL,"Replimune Group, Inc.",Health Care,Biotechnology,Small Cap
 REPX,"Riley Exploration Permian, Inc.",Energy,"Oil, Gas & Fuels",Small Cap
@@ -1516,7 +1512,7 @@ RYZ,Ryerson Holding Corporation,Industrials,Industrial Distribution & Rental,Sma
 RZLT,"Rezolute, Inc.",Health Care,Biotechnology,Small Cap
 S,SentinelOne Inc.,Information Technology,Software,Mid Cap
 SABR,Sabre Corporation,Information Technology,IT Services,Small Cap
-SAH,"Sonic Automotive, Inc.",Consumer Discretionary,Specialty Retail,Small Cap
+SAH,"Sonic Automotive, Inc.",Consumer Discretionary,Specialty Retail,Mid Cap
 SAIA,"Saia, Inc.",Industrials,Rail & Road Transport,Mid Cap
 SAIC,Science Applications International Corporation,Information Technology,IT Services,Mid Cap
 SAIL,SailPoint Inc.,Information Technology,Software,Large Cap
@@ -1737,7 +1733,7 @@ TVTX,"Travere Therapeutics, Inc.",Health Care,Biotechnology,Mid Cap
 TWI,"Titan International, Inc.",Industrials,Machinery,Small Cap
 TWIN,"Twin Disc, Incorporated",Industrials,Machinery,Small Cap
 TWLO,Twilio Inc.,Information Technology,Software,Large Cap
-TWST,Twist Bioscience Corp.,Health Care,Biotechnology,Large Cap
+TWST,Twist Bioscience Corp.,Health Care,Biotechnology,Mid Cap
 TXG,"10x Genomics, Inc.",Health Care,Life Science Tools,Mid Cap
 TXN,Texas Instruments Incorporated,Information Technology,Semiconductors & Chip Equipment,Mega Cap
 TXO,"TXO Partners, L.P.",Energy,"Oil, Gas & Fuels",Small Cap
@@ -1792,14 +1788,14 @@ VCEL,Vericel Corporation,Health Care,Biotechnology,Mid Cap
 VCYT,"Veracyte, Inc.",Health Care,Biotechnology,Mid Cap
 VECO,Veeco Instruments Inc.,Information Technology,Semiconductors & Chip Equipment,Mid Cap
 VEEV,Veeva Systems Inc Class A,Health Care,Health Care Technology,Large Cap
-VERA,"Vera Therapeutics, Inc.",Health Care,Biotechnology,Small Cap
+VERA,"Vera Therapeutics, Inc.",Health Care,Biotechnology,Mid Cap
 VERX,"Vertex, Inc.",Information Technology,Software,Mid Cap
 VFC,V.F. Corporation,Consumer Discretionary,Apparel & Luxury Goods,Mid Cap
 VG,Venture Global Inc.,Energy,"Oil, Gas & Fuels",Large Cap
 VGZ,Vista Gold Corp.,Materials,Mining & Metals,Small Cap
 VHI,"Valhi, Inc.",Materials,Chemicals,Small Cap
 VIA,Via Transportation Inc.,Information Technology,Software,Mid Cap
-VIAV,Viavi Solutions Inc,Information Technology,Networking & Communications Equipment,Large Cap
+VIAV,Viavi Solutions Inc,Information Technology,Networking & Communications Equipment,Mid Cap
 VICR,Vicor Corporation,Information Technology,Electronic Components & Instruments,Large Cap
 VIR,"Vir Biotechnology, Inc.",Health Care,Biotechnology,Small Cap
 VISN,Vistance Networks Inc.,Information Technology,Networking & Communications Equipment,Small Cap
@@ -1851,14 +1847,14 @@ WDC,Western Digital Corporation,Information Technology,Computers & Hardware,Larg
 WDFC,WD-40 Company,Consumer Staples,Household Products,Mid Cap
 WEAV,Weave Communications Inc.,Information Technology,Software,Small Cap
 WEN,Wendy's Company,Consumer Discretionary,Hospitality & Leisure,Small Cap
-WERN,"Werner Enterprises, Inc.",Industrials,Rail & Road Transport,Small Cap
+WERN,"Werner Enterprises, Inc.",Industrials,Rail & Road Transport,Mid Cap
 WES,"Western Midstream Partners, LP",Energy,"Oil, Gas & Fuels",Large Cap
 WEST,Westrock Coffee Company,Consumer Staples,Food Products,Small Cap
 WEX,WEX Inc.,Information Technology,Software,Mid Cap
 WEYS,"Weyco Group, Inc.",Consumer Discretionary,Apparel & Luxury Goods,Small Cap
 WFRD,Weatherford International plc,Energy,Oilfield Services & Equipment,Mid Cap
 WGO,"Winnebago Industries, Inc.",Consumer Discretionary,Automobiles,Small Cap
-WGS,GeneDx Holdings Corp.,Health Care,Health Care Providers,Small Cap
+WGS,GeneDx Holdings Corp.,Health Care,Health Care Providers,Mid Cap
 WH,"Wyndham Hotels & Resorts, Inc.",Consumer Discretionary,Hospitality & Leisure,Mid Cap
 WHD,"Cactus, Inc. Class A",Energy,Oilfield Services & Equipment,Mid Cap
 WHK,WhiteHawk Minerals Corp,Energy,"Oil, Gas & Fuels",Small Cap
@@ -1884,7 +1880,7 @@ WOLF,Wolfspeed Inc.,Information Technology,Semiconductors & Chip Equipment,Small
 WOOF,"Petco Health and Wellness Company, Inc.",Consumer Discretionary,Specialty Retail,Small Cap
 WOR,"Worthington Industries, Inc.",Materials,Mining & Metals,Mid Cap
 WRBY,Warby Parker Inc.,Consumer Discretionary,Specialty Retail,Mid Cap
-WS,Worthington Steel Inc.,Materials,Mining & Metals,Small Cap
+WS,Worthington Steel Inc.,Materials,Mining & Metals,Mid Cap
 WSC,WillScot Mobile Mini Holdings Corp.,Industrials,Commercial Services,Mid Cap
 WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,Specialty Retail,Large Cap
 WSO,"Watsco, Inc.",Industrials,Industrial Distribution & Rental,Large Cap
@@ -1921,7 +1917,7 @@ Z,"Zillow Group, Inc.",Communication Services,Internet Media & Services,Mid Cap
 ZBH,"Zimmer Biomet Holdings, Inc.",Health Care,Medical Devices & Supplies,Large Cap
 ZBIO,Zenas BioPharma Inc.,Health Care,Biotechnology,Small Cap
 ZBRA,Zebra Technologies Corporation Class A,Information Technology,Networking & Communications Equipment,Large Cap
-ZD,Ziff Davis Inc.,Communication Services,Media,Small Cap
+ZD,Ziff Davis Inc.,Communication Services,Media,Mid Cap
 ZG,"Zillow Group, Inc.",Communication Services,Internet Media & Services,Mid Cap
 ZIP,"ZipRecruiter, Inc.",Industrials,Professional Services,Small Cap
 ZM,"Zoom Video Communications, Inc.",Information Technology,Software,Large Cap
